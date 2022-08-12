@@ -465,7 +465,7 @@ Test Here : https://Torrent-Api-py.ryukme.repl.co/api/v1/search?site=tgx&query=a
 
 <p> If you feel like showing your appreciation for this project, then how about buying me a coffee.</p>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ryukmee)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/networkchukka)
 
 ---
 
